@@ -1,0 +1,3 @@
+---
+name: ai-image-prompts-skill
+...
